@@ -28,6 +28,7 @@ scontent-ams4-1.xx.fbcdn.net
 scontent.xx.fbcdn.net
 cdn.fbsbx.com
 internalfb.com
+oculus.com
 
 # Twitter/X. From: https://github.com/v2fly/domain-list-community/blob/master/data/twitter
 ads-twitter.com
@@ -69,6 +70,23 @@ www.youtube.com
 www.youtubekids.com
 googleapis.com
 youtu.be
+
+# Tik-tok
+byteoversea.com
+ibytedtos.com
+muscdn.com
+musical.ly
+tik-tokapi.com
+tiktok.com
+tiktokcdn-us.com
+tiktokcdn-eu.com
+tiktokcdn.com
+tiktokd.net
+tiktokd.org
+tiktokv.com
+tiktokv.us
+tiktokw.us
+ttwstatic.com
 
 # servarr
 translate.servarr.com
@@ -321,6 +339,7 @@ digitalocean.com
 godaddy.com
 hetzner.com
 accounts.hetzner.com
+webnames.ca
 
 # Intel
 intel.com
@@ -341,15 +360,22 @@ nnmclub.to
 filmitorrent.net
 fast-torrent.club
 kinozal.guru
+torrentgalaxy.to
 
 # Media
 lostfilmtv2.site
 static.lostfilm.top
 filmix.fm
+api.service-kp.com
 
 # Media DB
 www.theaudiodb.com
 theaudiodb.com
+themoviedb.org
+tmdb.org
+image.tmdb.org
+api.themoviedb.org
+tmdb-image-prod.b-cdn.net
 
 # IT
 bell-sw.com
@@ -369,6 +395,10 @@ mailo.com
 pages.dev
 cock.li
 leafletjs.com
+ocstore.com
+
+# Programs
+zbigz.com
 
 # AI
 remove.bg
@@ -379,6 +409,7 @@ groq.com
 tsmc.com
 www.ti.com
 mouser.fi
+analog.com
 
 # Nvidia
 geforcenow.com
@@ -420,8 +451,9 @@ attachments.f95zone.to
 reddxxx.com
 redgifs.com
 xv-ru.com
+pornhub.com
 
-# Anime
+# Anime + dorama
 bato.to
 gelbooru.com
 danbooru.donmai.us
@@ -430,6 +462,7 @@ vndb.org
 dorama.live
 doramalive.ru
 doramy.club
+mydoramy.club
 mangahub.ru
 
 # Salesforce
@@ -453,6 +486,21 @@ trailhead.com
 sky.com
 digitalcontent.sky
 skycdp.com
+
+# Supercell
+supercell.com
+id.supercell.com
+clashofclans.com
+brawlstarsgame.com
+clashroyaleapp.com
+squadbustersgame.com
+
+# Games
+riotpixels.com
+
+# Messengers
+threema.ch
+signal.org
 
 # Other
 saverudata.net
@@ -543,7 +591,6 @@ ldoceonline.com
 twirpx.com
 capcut.com
 decrypt.day
-id.supercell.com
 amdm.ru
 firefly.adobe.com
 ficbook.net
@@ -574,7 +621,34 @@ sdxcentral.com
 premierleague.com
 footballapi.pulselive.coms
 ign.com
-howlongtobeast.com
+howlongtobeat.com
 hotels.com
 plugshare.com
 volkswagen-classic-parts.com
+wiki.fextralife.com
+bitdefender.com
+coursera.org
+4pna.com
+skiff.com
+mailfence.com
+buymeacoffee.com
+prowlarr.com
+swissinfo.ch
+ign.com
+gofundme.com
+buanzo.org
+flipboard.com
+digikey.com
+skladchik.com
+lolz.guru
+skladchiki.pro
+skladchina.vip
+keysight.com
+nxp.com
+upwork.com
+nike.com
+adidas.com
+abercrombie.com
+hollisterco.com
+freemyip.com
+onshape.com
